@@ -11,6 +11,6 @@
 Django 4.0.3
 
 #Запуск
-Открыть Терминал в папке проекта
-Войти в виртуальное окружение venv командой .\venv\Scripts\activate
-Запустить проект командой python manage.py runserver
+1. Открыть Терминал в папке проекта
+2. Войти в виртуальное окружение venv командой .\venv\Scripts\activate
+3. Запустить проект командой python manage.py runserver
